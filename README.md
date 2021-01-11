@@ -25,8 +25,9 @@ drive.mount('/content/drive')
 ```
 * Clone this github repository to the current folder.
 ```
-! git clone https://github.com/achinthaw/SignalsAndSystems.git
+! git clone https://github.com/achinthaw/EN1093_SNS_Lab_0.git
 ```
 * Close the "Clone_File.ipynb" and open the colab file ("Introduction_to_Numpy_&_Matplotlib.ipynb") inside the newly cloned repository.
+
 
 Looking forwards to seeing you at class! :)
